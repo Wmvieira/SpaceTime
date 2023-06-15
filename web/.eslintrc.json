@@ -1,6 +1,6 @@
 {
   "extends": [
     "next/core-web-vitals",
-    "@rocketseat/eslint-cnfig/react"
+    "@rocketseat/eslint-config/react"
   ]
 }
